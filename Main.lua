@@ -1,4 +1,6 @@
-local Swining = false
+if game.PlaceId == 3823781113 then
+	
+	local Swining = false
 local Selling = false
 local egging = false
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
@@ -113,3 +115,5 @@ local AutoSell = MainTab:CreateButton({
    end
    end,
 })]]
+
+end
